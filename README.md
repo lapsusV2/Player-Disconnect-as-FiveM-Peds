@@ -1,4 +1,4 @@
-VIDEO https://cdn.discordapp.com/attachments/1294051161015455886/1294063928225304717/lapsus_2.mp4?ex=6709a673&is=670854f3&hm=65d7b1601e8f44f60f83dbcb791aa26fb5d7b4f423c6f42d12a6e25541175b07&
+VIDEO https://youtu.be/MU1b5UJd__w?si=awHYsoudecNvC-m1
 ENGLISH
 The **"Player Disconnect as FiveM Peds"** script enhances immersion on FiveM servers by ensuring that a player’s character (ped) remains visible at their disconnection point, instead of simply vanishing. The ped can perform a sleeping animation to maintain realism in roleplay environments.
 
